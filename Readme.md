@@ -1,7 +1,8 @@
 ## Introduce
 This is a Chinese chess game implemented by leo smart contract
-Frontside use React + Typescript
-And use the leo contract to record the status
+
+###### Frontside use React + Typescript
+###### And use the leo contract to record the status
 
 ## Display address
 http://120.78.222.245:53211/
