@@ -7,6 +7,9 @@ This is a Chinese chess game implemented by leo smart contract
 ## Display address
 http://120.78.222.245:53211/
 
+## Video Presentation
+https://www.youtube.com/watch?v=uhw61ro2nDI
+
 ## Project Structure
 
 ```bash
