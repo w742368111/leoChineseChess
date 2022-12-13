@@ -13,3 +13,6 @@ http://120.78.222.245:53211/
 ├── /ChessFrontside/         Frontsize of the project   # 
 ├── /chinese_chess/          Leo smart contract of the project   # 
 ```
+
+## More detail
+You can see more detail from Chinese Chess Leo Smart Contract Design.pdf
