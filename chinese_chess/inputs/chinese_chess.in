@@ -1,0 +1,23 @@
+// The program input for chinese_chess/src/main.leo
+[main]
+public a: u32 = 1u32;
+b: u32 = 2u32;
+
+[newgame]
+red:address = aleo16jzu850465fujncf4xd5gz2hj8x4rhx3qyxlsrfyn9a8qw62puxsv05sn9;
+black:address = aleo163jxv4mu72r4qr3tggks8sja2g98uycmfay66p2wkwnem0kwcy9svf99x5;
+owner:address = aleo1ev85sclcaq9etq6zfphzmu0fs9fpl9fxlv9fz5gf3dsyt39ytugqu6nxrw;
+
+[endgame]
+manager:address = aleo1ev85sclcaq9etq6zfphzmu0fs9fpl9fxlv9fz5gf3dsyt39ytugqu6nxrw;
+public result:u8 = 4u8;
+
+[playerappeal]
+player:address = aleo16jzu850465fujncf4xd5gz2hj8x4rhx3qyxlsrfyn9a8qw62puxsv05sn9;
+result:u8 = 2u8;
+
+[movepiece]
+player:address = aleo16jzu850465fujncf4xd5gz2hj8x4rhx3qyxlsrfyn9a8qw62puxsv05sn9;
+nstatus:u64 = 10001020304050607u64;
+ostatus:u64 = 10001020304050626u64;
+result:u8 = 2u8;

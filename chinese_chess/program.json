@@ -1,0 +1,10 @@
+{
+    "program": "chinese_chess.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp7vMmJr4mR5ca4qJ6YQbUq6iqVQMe9daS12cETHSA7FcC",
+        "address": "aleo1ev85sclcaq9etq6zfphzmu0fs9fpl9fxlv9fz5gf3dsyt39ytugqu6nxrw"
+    },
+    "license": "MIT"
+}
